@@ -1,9 +1,3 @@
-<!-- default file list -->
-*Files to look at*:
-
-* [MainPage.xaml](./CS/1721 - CellImageZoom/MainPage.xaml) (VB: [MainPage.xaml](./VB/1721 - CellImageZoom/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/1721 - CellImageZoom/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/1721 - CellImageZoom/MainPage.xaml.vb))
-<!-- default file list end -->
 # How to zoom an image that is placed in the DXGrid cell
 
 
